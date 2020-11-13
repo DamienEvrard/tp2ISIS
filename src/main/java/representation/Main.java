@@ -18,5 +18,4 @@ public class Main {
         System.out.printf("Le représentant %s a gagné %.2f € pour le mois n° %d %n", r, salaire, 0);
 
     }
-
 }
